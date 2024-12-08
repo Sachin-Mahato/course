@@ -1,0 +1,60 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Kotlin",
+      "description": "Get started with Kotlin, the modern programming language for Android development and beyond.",
+      "price": 109.99,
+      "instructor": "Alice Peterson",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1588690154757-badf4644190f?q=80&w=2748&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "title": "Mastering Rust Programming",
+      "description": "Learn Rust to write safe, concurrent, and fast systems-level applications.",
+      "price": 119.99,
+      "instructor": "Chris Barnes",
+      "isFeatured": false,
+      "image": "https://plus.unsplash.com/premium_vector-1727953895055-a21a110cbd5e?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "title": "Go Programming for Beginners",
+      "description": "Learn the basics of Go programming and build scalable, high-performance applications.",
+      "price": 99.99,
+      "instructor": "Brian Taylor",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"
+    },
+    {
+      "id": 4,
+      "title": "Scala for Functional Programming",
+      "description": "Dive into Scala and learn how to use functional programming to write concise and powerful code.",
+      "price": 129.99,
+      "instructor": "Diana Blake",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg"
+    },
+    {
+      "id": 5,
+      "title": "Building Scalable Applications with Elixir",
+      "description": "Discover the power of Elixir and its ecosystem for building scalable, fault-tolerant applications.",
+      "price": 139.99,
+      "instructor": "Evan Hughes",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png"
+    },
+    {
+      "id": 6,
+      "title": "Introduction to Lua Scripting",
+      "description": "Learn Lua scripting to build lightweight, efficient, and powerful applications for games and embedded systems.",
+      "price": 89.99,
+      "instructor": "Fiona Clark",
+      "isFeatured": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"
+    }
+  ]
+}
+
+
