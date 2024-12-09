@@ -39,10 +39,11 @@ function Footer() {
             <strong>Phone:</strong> +1 (123) 456-7890
           </p>
           <p>
-            <strong>Email:</strong> info@musicschool.com
+            <strong>Email:</strong> info@codeschool.com
           </p>
           <p>
-            <strong>Address:</strong> 123 Harmony Lane, Melody City, Music State
+            <strong>Address:</strong> 123 Code Avenue, Programming City, Code
+            State
           </p>
         </div>
       </div>
